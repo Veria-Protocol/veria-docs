@@ -21,11 +21,11 @@ curl -X POST https://api.veria.cc/v1/screen \
 
 ## Rate Limits
 
-| Tier | Calls/Month | Calls/Minute |
-|------|-------------|--------------|
+| Tier | Operations/Month | Calls/Minute |
+|------|------------------|--------------|
 | Sandbox | 100 | 10 |
-| Growth | 10,000 | 100 |
-| Builder | 100,000 | 500 |
+| Professional | 10,000 | 100 |
+| Scale | 100,000 | 500 |
 | Protocol | 500,000 | 1,000 |
 
 ### Rate Limit Headers

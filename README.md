@@ -50,9 +50,11 @@ Sign up at [protocol.veria.cc](https://protocol.veria.cc)
 
 ## Pricing
 
-| Tier | Price | Calls/Month |
-|------|-------|-------------|
-| Sandbox | Free | 100 |
-| Growth | $99 | 10,000 |
-| Builder | $499 | 100,000 |
-| Protocol | $2,500 | 500,000 |
+| Tier | Price | Operations/Month | Overage |
+|------|-------|------------------|---------|
+| Sandbox | Free | 100 | Hard limit |
+| Professional | $499/mo | 10,000 | $0.06/op |
+| Scale | $2,000/mo | 100,000 | $0.035/op |
+| Protocol | $5,000/mo | 500,000 | $0.02/op |
+
+All paid tiers include mainnet commercial license, audit-ready compliance logs, and SLA guarantees.
