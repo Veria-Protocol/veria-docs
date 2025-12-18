@@ -55,6 +55,10 @@ Sign up at [protocol.veria.cc](https://protocol.veria.cc)
 | Sandbox | Free | 100 | Hard limit |
 | Professional | $499/mo | 10,000 | $0.06/op |
 | Scale | $2,000/mo | 100,000 | $0.035/op |
-| Protocol | $5,000/mo | 500,000 | $0.02/op |
+| Enterprise | $5,000/mo | 500,000 | $0.02/op |
+
+**Professional:** For production teams integrating compliance infrastructure.
+**Scale:** For platforms operating at sustained transaction volume.
+**Enterprise:** For regulated organizations and protocol-level deployments.
 
 All paid tiers include mainnet commercial license, audit-ready compliance logs, and SLA guarantees.

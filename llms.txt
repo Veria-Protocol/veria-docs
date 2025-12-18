@@ -74,7 +74,11 @@ curl -X POST https://api.veria.cc/v1/screen \
 | Sandbox | Free | 100 | Hard limit |
 | Professional | $499/mo | 10,000 | $0.06/op |
 | Scale | $2,000/mo | 100,000 | $0.035/op |
-| Protocol | $5,000/mo | 500,000 | $0.02/op |
+| Enterprise | $5,000/mo | 500,000 | $0.02/op |
+
+**Professional:** For production teams integrating compliance infrastructure.
+**Scale:** For platforms operating at sustained transaction volume.
+**Enterprise:** For regulated organizations and protocol-level deployments.
 
 ## Supported Chains
 
